@@ -15,6 +15,7 @@
 		75AEC8F51D94DBF300F74565 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 75AEC8F31D94DBF300F74565 /* LaunchScreen.storyboard */; };
 		75AEC9001D94DBF400F74565 /* UIImageView_02_TomCatTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 75AEC8FF1D94DBF400F74565 /* UIImageView_02_TomCatTests.m */; };
 		75AEC90B1D94DBF400F74565 /* UIImageView_02_TomCatUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 75AEC90A1D94DBF400F74565 /* UIImageView_02_TomCatUITests.m */; };
+		75AEC9191D94FBA500F74565 /* Tom in Resources */ = {isa = PBXBuildFile; fileRef = 75AEC9181D94FBA500F74565 /* Tom */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		75AEC9061D94DBF400F74565 /* UIImageView_02_TomCatUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UIImageView_02_TomCatUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		75AEC90A1D94DBF400F74565 /* UIImageView_02_TomCatUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UIImageView_02_TomCatUITests.m; sourceTree = "<group>"; };
 		75AEC90C1D94DBF400F74565 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		75AEC9181D94FBA500F74565 /* Tom */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Tom; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 		75AEC8E41D94DBF300F74565 /* UIImageView_02_TomCat */ = {
 			isa = PBXGroup;
 			children = (
+				75AEC9181D94FBA500F74565 /* Tom */,
 				75AEC8E81D94DBF300F74565 /* AppDelegate.h */,
 				75AEC8E91D94DBF300F74565 /* AppDelegate.m */,
 				75AEC8EB1D94DBF300F74565 /* ViewController.h */,
@@ -249,6 +252,7 @@
 				75AEC8F51D94DBF300F74565 /* LaunchScreen.storyboard in Resources */,
 				75AEC8F21D94DBF300F74565 /* Assets.xcassets in Resources */,
 				75AEC8F01D94DBF300F74565 /* Main.storyboard in Resources */,
+				75AEC9191D94FBA500F74565 /* Tom in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
